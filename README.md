@@ -1,0 +1,2 @@
+# vazha
+.com
